@@ -1,4 +1,4 @@
-# archityperpg
+# ArchitypeRPG
 
 "Humans are irrational, messy, contradictory and sometimes self-defeating. They act against each others’ interests, and compete viciously and brutally for limited resources. Instead of acting as one, they form complicated tribes that fight between each other. But humans also possess a high capacity for aspiration, kinship, compassion, and a ridiculous tolerance of adversity. For this reason, they are extremely dangerous and likely to take over a significant part of the galaxy in a very short time. Avoid if at all possible."
 
