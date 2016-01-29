@@ -8,6 +8,4 @@ Architype is a table-top RPG where players create interesting stories by coopera
 
 In Architype, no game master is required. Instead, players are given incentives to create "opportunities" by tempting each others character(s) and placing obstacles in their way. This game is designed to help you explore each the conscious and subconscious motivations of each others' characters through overcoming obstacles in the pursuit of goals.
 
-Currently the game is only in json format. Other formats soon supported.
-
-Version 0.0.1
+[Read Game](http://htmlpreview.github.io/?https://github.com/ericdriggs/archityperpg/blob/master/content.html)
